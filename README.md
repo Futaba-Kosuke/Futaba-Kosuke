@@ -15,8 +15,8 @@ I am most skilled and comfortable using Python3.
 #### **🐱ねこカメラ 🏆🏆**
 … 飼い猫とのツーショットを自動撮影する監視カメラのプロダクトです。  
 
-- 九州アプリチャレンジキャラバン: 🏆福岡ビジネスデジタルコンテンツ賞
-- 福岡ビジネスデジタルコンテンツ: 🏆ヤング賞
+九州アプリチャレンジキャラバン: 🏆福岡ビジネスデジタルコンテンツ賞  
+福岡ビジネスデジタルコンテンツ: 🏆ヤング賞  
 
 Client: https://github.com/FukeKazki/CatCameraClient  
 Server: https://github.com/Futaba-Kosuke/cat_camera_server  
@@ -26,7 +26,7 @@ ML: https://github.com/Futaba-Kosuke/cat_camera_ml
 #### **💎高専祭4I QRトレジャーハント 🏆**
 … 非接触で感染症を対策しつつ楽しむトレジャーハントです。  
 
-- 北九州高専／高専祭: 🏆感染症対策賞
+北九州高専／高専祭: 🏆感染症対策賞  
 
 Web: https://github.com/Futaba-Kosuke/4i-qr-treasure-hunt
 
