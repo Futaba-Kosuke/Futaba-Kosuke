@@ -20,7 +20,7 @@ I am most skilled and comfortable using Python3.
 
 Client: https://github.com/FukeKazki/CatCameraClient  
 Server: https://github.com/Futaba-Kosuke/cat_camera_server  
-Camera: https://github.com/Futaba-Kosuke/cat_camera_hardware
+Camera: https://github.com/Futaba-Kosuke/cat_camera_hardware  
 ML: https://github.com/Futaba-Kosuke/cat_camera_ml  
 
 ### **💎高専祭4I QRトレジャーハント 🏆**
