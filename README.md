@@ -39,21 +39,21 @@ Server: https://github.com/FukeKazki/3i-entry-exit-server
 ## Technology Stack ↓↓
 
 ### **🚀 Web Frontend**  
-Basic: HTML, CSS, JavaScript
-JavaScript: Vue.js, React.js
+Basic: HTML, CSS, JavaScript  
+JavaScript: Vue.js, React.js  
 
 ### **🚀 iOS**
-JavaScript: ReactNative
+JavaScript: ReactNative  
 
 ### **🚀 Backend**
-JavaScript: Node.js
-Python3: Flask
+JavaScript: Node.js  
+Python3: Flask  
 
 ### **🚀 ML**
-Python3: Tensorflow, Keras, Pytorch
+Python3: Tensorflow, Keras, Pytorch  
 
 ### **🚀 Other**
-C, C++, Arduino, RaspberryPi
+C, C++, Arduino, RaspberryPi  
 
 ### **🚀 Database**  
-PostgreSQL, Firestore
+PostgreSQL, Firestore  
