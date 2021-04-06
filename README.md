@@ -36,6 +36,11 @@ Web: https://github.com/Futaba-Kosuke/4i-qr-treasure-hunt
 Web: https://github.com/Futaba-Kosuke/3i-entry-exit-client  
 Server: https://github.com/FukeKazki/3i-entry-exit-server  
 
+### **🎲 ダイスボット_LINE**
+… TRPGなどに欠かせないダイスロールをLINE上で実行できるボットです。
+
+Server: https://github.com/Futaba-Kosuke/dice_bot_line
+
 ## Technology Stack ↓↓
 
 ### **🚀 Web Frontend**  
