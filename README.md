@@ -23,6 +23,31 @@ Server: https://github.com/Futaba-Kosuke/cat_camera_server
 Camera: https://github.com/Futaba-Kosuke/cat_camera_hardware  
 ML: https://github.com/Futaba-Kosuke/cat_camera_ml  
 
+<details>
+<summary>
+使用技術
+</summary>
+
+**Client**
+- ReactNative  
+
+**Server**
+- Flask
+
+**Camera**
+- RaspberryPi
+- Tensorflow
+
+**ML**
+- Pytorch
+- ScikitLearn
+
+**Data**
+- Firestore  
+- Cloud storage for firebase  
+
+</details>
+
 ### **💎高専祭4I QRトレジャーハント 🏆**
 … 非接触で感染症を対策しつつ楽しむトレジャーハントです。  
 
@@ -30,17 +55,55 @@ ML: https://github.com/Futaba-Kosuke/cat_camera_ml
 
 Web: https://github.com/Futaba-Kosuke/4i-qr-treasure-hunt
 
+<details>
+<summary>
+使用技術
+</summary>
+
+**Web**
+- React.js  
+
+</details>
+
 ### **🚩高専祭3I 入退場管理システム**
 … シューティングお化け屋敷のタイムアタックランキング表示システムです。  
 
 Web: https://github.com/Futaba-Kosuke/3i-entry-exit-client  
 Server: https://github.com/FukeKazki/3i-entry-exit-server  
 
+<details>
+<summary>
+使用技術
+</summary>
+
+**Web**
+- Vue.js  
+
+**Server**
+- Node.js
+- PostgreSQL
+
+</details>
+
 ### **🎲 ダイスボット**
 … TRPGなどに欠かせないダイスロールをLINE, Discord上のそれぞれで実行できるボットです。
 
 LINE: https://github.com/Futaba-Kosuke/dice_bot_line  
 Discord: https://github.com/Futaba-Kosuke/dice_bot_discord  
+
+<details>
+<summary>
+使用技術
+</summary>
+
+**LINE**
+- Flask
+- LINE Messaging API
+
+**Discord**
+- Discord.py
+
+</details>
 
 ## Technology Stack ↓↓
 
