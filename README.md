@@ -38,7 +38,7 @@ Qiita: https://qiita.com/niba2828
 ### **🚩高専祭3I 入退場管理システム**
 シューティングお化け屋敷のタイムアタックランキング表示システムです。  
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=3i-entry-exit-client&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/3i-entry-exit-client)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=3i-entry-exit-front&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/3i-entry-exit-front)
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=FukeKazki&repo=3i-entry-exit-server&show_owner=true&theme=dark)](https://github.com/FukeKazki/3i-entry-exit-server)
 
 ### **🎲 ダイスボット**
