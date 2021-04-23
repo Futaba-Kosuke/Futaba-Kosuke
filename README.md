@@ -1,3 +1,8 @@
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Futaba-Kosuke&show_icons=true&count_private=true&theme=dark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=Futaba-Kosuke&langs_count=3&theme=dark)
+
+## About Me
+
 Hello everyone!🚀  
 
 I am Fifth year National Institute of Technology Student.  
@@ -6,11 +11,11 @@ I have experience in front-end, back-end, and machine learning.
 
 I am most skilled and comfortable using Python3.  
 
-## My Technical Articles ↓↓
+## My Technical Articles
 
 - Qiita: https://qiita.com/niba2828
 
-## My Products Links ↓↓
+## My Products Links
 
 ### **🐱ねこカメラ 🏆🏆**
 … 飼い猫とのツーショットを自動撮影する監視カメラのプロダクトです。  
@@ -18,92 +23,29 @@ I am most skilled and comfortable using Python3.
 九州アプリチャレンジキャラバン: 🏆福岡ビジネスデジタルコンテンツ賞  
 福岡ビジネスデジタルコンテンツ: 🏆ヤング賞  
 
-Client: https://github.com/FukeKazki/CatCameraClient  
-Server: https://github.com/Futaba-Kosuke/cat_camera_server  
-Camera: https://github.com/Futaba-Kosuke/cat_camera_hardware  
-ML: https://github.com/Futaba-Kosuke/cat_camera_ml  
-
-<details>
-<summary>
-使用技術
-</summary>
-
-**Client**
-- ReactNative  
-
-**Server**
-- Flask
-
-**Camera**
-- RaspberryPi
-- Tensorflow
-
-**ML**
-- Pytorch
-- ScikitLearn
-
-**Data**
-- Firestore  
-- Cloud storage for firebase  
-
-</details>
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=FukeKazki&repo=CatCameraClient&show_owner=true&theme=dark)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=cat_camera_server&show_owner=true&theme=dark)  
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=cat_camera_hardware&show_owner=true&theme=dark)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=cat_camera_ml&show_owner=true&theme=dark)
 
 ### **💎高専祭4I QRトレジャーハント 🏆**
 … 非接触で感染症を対策しつつ楽しむトレジャーハントです。  
 
 北九州高専／高専祭: 🏆感染症対策賞  
 
-Web: https://github.com/Futaba-Kosuke/4i-qr-treasure-hunt
-
-<details>
-<summary>
-使用技術
-</summary>
-
-**Web**
-- React.js  
-
-</details>
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=4i-qr-treasure-hunt&show_owner=true&theme=dark)
 
 ### **🚩高専祭3I 入退場管理システム**
 … シューティングお化け屋敷のタイムアタックランキング表示システムです。  
 
-Web: https://github.com/Futaba-Kosuke/3i-entry-exit-client  
-Server: https://github.com/FukeKazki/3i-entry-exit-server  
-
-<details>
-<summary>
-使用技術
-</summary>
-
-**Web**
-- Vue.js  
-
-**Server**
-- Node.js
-- PostgreSQL
-
-</details>
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=3i-entry-exit-client&show_owner=true&theme=dark)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=FukeKazki&repo=3i-entry-exit-server&show_owner=true&theme=dark)
 
 ### **🎲 ダイスボット**
 … TRPGなどに欠かせないダイスロールをLINE, Discord上のそれぞれで実行できるボットです。
 
-LINE: https://github.com/Futaba-Kosuke/dice_bot_line  
-Discord: https://github.com/Futaba-Kosuke/dice_bot_discord  
-
-<details>
-<summary>
-使用技術
-</summary>
-
-**LINE**
-- Flask
-- LINE Messaging API
-
-**Discord**
-- Discord.py
-
-</details>
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=dice_bot_line&show_owner=true&theme=dark)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=dice_bot_discord&show_owner=true&theme=dark)  
 
 ## Technology Stack ↓↓
 
