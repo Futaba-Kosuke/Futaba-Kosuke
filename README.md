@@ -1,5 +1,5 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Futaba-Kosuke&show_icons=true&count_private=true&theme=dark)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=Futaba-Kosuke&langs_count=3&theme=dark)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Futaba-Kosuke&show_icons=true&count_private=true&theme=vue-dark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=Futaba-Kosuke&langs_count=3&theme=vue-dark)
 
 ## About Me
 
@@ -15,7 +15,7 @@ I am most skilled and comfortable using Python3.
 
 Qiita: https://qiita.com/niba2828
 
-## My Products Links
+## My Product's Links
 
 ### **🐱ねこカメラ 🏆🏆**
 飼い猫とのツーショットを自動撮影する監視カメラのプロダクトです。  
@@ -48,7 +48,7 @@ TRPG用ダイスボットを転がせるボットです。
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=dice_bot_discord&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/dice_bot_discord)  
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=dice_tools&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/dice_tools)  
 
-## Technology Stack ↓↓
+## Technology Stack
 
 ### **🚀 Web Frontend**  
 Basic: HTML, CSS, JavaScript  
