@@ -42,7 +42,7 @@ Qiita: https://qiita.com/niba2828
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=FukeKazki&repo=3i-entry-exit-server&show_owner=true&theme=dark)](https://github.com/FukeKazki/3i-entry-exit-server)
 
 ### **🎲 ダイスボット**
-TRPG用ダイスボットを転がせるボットです。
+TRPG用ダイスを転がせるボットです。
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=dice_bot_line&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/dice_bot_line)
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=dice_bot_discord&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/dice_bot_discord)  
