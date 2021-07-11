@@ -59,7 +59,7 @@ JavaScript: ReactNative
 
 ### **🚀 Backend**
 JavaScript: Node.js  
-Python3: Flask  
+Python3: Flask, Fast-API  
 
 ### **🚀 ML**
 Python3: Tensorflow, Keras, Pytorch  
