@@ -48,6 +48,13 @@ TRPG用ダイスを転がせるボットです。
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=dice_bot_discord&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/dice_bot_discord)  
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=dice_tools&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/dice_tools)  
 
+### **🚃 TLi:NE TABLE**
+時刻表を出力するLINEボットです。
+
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=tline_table_bot&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/tline_table_bot)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=tline_table_scraping&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/tline_table_scraping)  
+
+
 ## Technology Stack
 
 ### **🚀 Web Frontend**  
