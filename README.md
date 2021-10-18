@@ -54,6 +54,10 @@ TRPG用ダイスを転がせるボットです。
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=tline_table_bot&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/tline_table_bot)
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=tline_table_scraping&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/tline_table_scraping)  
 
+### **🦠 COVID-19 Reminder**
+新型コロナウィルスの感染状況を通知するLINEボットです。
+
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=covid_reminder_line_bot&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/covid_reminder_line_bot)
 
 ## Technology Stack
 
