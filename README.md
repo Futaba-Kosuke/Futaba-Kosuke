@@ -62,10 +62,10 @@ TRPG用ダイスを転がせるボットです。
 ## Technology Stack
 
 ### **🚀 Web Frontend**  
-Basic: HTML, CSS, JavaScript  
-JavaScript: Vue.js, React.js  
+Basic: HTML, CSS, JavaScript, TypeScript  
+Frameworks: Vue, React, Next, Gatsby  
 
-### **🚀 iOS**
+### **🚀 Mobile**
 JavaScript: ReactNative  
 
 ### **🚀 Backend**
@@ -76,7 +76,7 @@ Python3: Flask, Fast-API
 Python3: Tensorflow, Keras, Pytorch  
 
 ### **🚀 Other**
-C, C++, Arduino, RaspberryPi  
+C, C++, Arduino, RaspberryPi, Google Apps Script  
 
 ### **🚀 Database**  
 PostgreSQL, Firestore  
