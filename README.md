@@ -59,6 +59,11 @@ TRPG用ダイスを転がせるボットです。
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=covid_reminder_line_bot&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/covid_reminder_line_bot)
 
+### **☖ 将棋カメラ**
+将棋の棋譜を自動記録するアプリケーションです。
+
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Futaba-Kosuke&repo=shogi-camera-server&show_owner=true&theme=dark)](https://github.com/Futaba-Kosuke/shogi-camera-server)
+
 ## Technology Stack
 
 ### **🚀 Web Frontend**  
