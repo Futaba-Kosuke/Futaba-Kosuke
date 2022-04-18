@@ -15,6 +15,11 @@ I am most skilled and comfortable using Python3.
 
 Qiita: https://qiita.com/niba2828
 
+## Templates
+
+Python: https://github.com/Futaba-Kosuke/python_template
+FastAPI: https://github.com/Futaba-Kosuke/fastapi_template
+
 ## My Product's Links
 
 ### **🐱ねこカメラ 🏆🏆**
