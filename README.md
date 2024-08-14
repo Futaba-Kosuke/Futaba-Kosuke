@@ -76,10 +76,11 @@ Basic: HTML, CSS, JavaScript, TypeScript
 Frameworks: Vue, React, Next, Gatsby  
 
 ### **🚀 Mobile**
-JavaScript: ReactNative  
+JavaScript/TypeScript: ReactNative  
 
 ### **🚀 Backend**
 JavaScript: Node.js  
+TypeScript: Deno  
 Python3: Flask, Fast-API  
 
 ### **🚀 ML**
@@ -89,4 +90,4 @@ Python3: Tensorflow, Keras, Pytorch
 C, C++, Arduino, RaspberryPi, Google Apps Script  
 
 ### **🚀 Database**  
-PostgreSQL, Firestore  
+MySQL, PostgreSQL, SQLite, Firestore  
